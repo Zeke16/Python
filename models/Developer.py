@@ -9,4 +9,4 @@ class Developer(BaseModel):
     age: int
     address: str
     skills: List[Skill]
-    languaje: List[Languaje]
+    languages: List[Languaje]
